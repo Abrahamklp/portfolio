@@ -295,7 +295,7 @@ li a {
         box-shadow: -15px 7px 30px rgba(0, 0, 0, 0.2);
         border-radius: 10px;
         margin: 50px;
-        background-image: url('images/lite.jpg');
+        background-image: url('images/smooth.jpg');
         background-size: cover;
         background-position: center;
     }
@@ -310,7 +310,7 @@ li a {
         margin-top: 20px;
         height: 300px;
         width: 225px;
-        background-image: url('images/main.jpg');
+        background-image: url('images/front-img.jpg');
         background-size: cover;
         background-position: center;
     }
